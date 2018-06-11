@@ -1,0 +1,5 @@
+Project Steps for Udacity Full Stack ND
+
+1- Project infrastructure
+  -How to split JS into multiple files effectively
+  
