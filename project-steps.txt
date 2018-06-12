@@ -1,12 +1,24 @@
 Project Steps for Udacity Full Stack ND
 
 1- Project infrastructure
-  -How to split JS into multiple files effectively
-  -Check out gulp, bower etc..
-  -Test those on a seperate demo project.
+  -How to split JS into multiple files effectively?
+  -Check out gulp, bower etc..?
+  -Test those on a seperate demo project.?
 
 2- Basic implementations
-  - Get knockout js
-    -Test
-  - Get gmaps js api
-    -Test
+  - Get knockout js+
+    -Test+
+  - Get gmaps js api+
+    -Test+
+
+3- Project Functionality
+  - Setting markers
+  - Setting infowindow
+  - Manuplating marker colors
+  - Manuplating marker animations
+  - Filtering markers
+
+4- Project UX
+  - Setting responsiveness
+    -Mobile First
+  - Creating css and loading css dynamically based on screen size
