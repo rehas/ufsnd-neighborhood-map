@@ -4,8 +4,8 @@ Project Steps for Udacity Full Stack ND
   - How to split JS into multiple files effectively?
   - Check out gulp, bower etc..?
   - Test those on a separate demo project.?
-  HERE>- Set up node, npm
-  - set up gulp
+  - Set up node, npm+
+  HERE>- set up gulp
   - try gulp in empty project with several js files
   - try gulp in empty project with several vendor files
 
@@ -30,3 +30,9 @@ Project Steps for Udacity Full Stack ND
       - 1 for Ipad+
       - 1 for desktop+
   - Creating css and loading css dynamically based on screen size+
+  - Design mobile screen
+    - Implement css
+  - Design Ipad screen
+    - Implement css
+  - Design desktop screen
+    - Implement css
