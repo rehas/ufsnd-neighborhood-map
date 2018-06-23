@@ -5,9 +5,9 @@ Project Steps for Udacity Full Stack ND
   - Check out gulp, bower etc..?
   - Test those on a separate demo project.?
   - Set up node, npm+
-  HERE>- set up gulp
-  - try gulp in empty project with several js files
-  - try gulp in empty project with several vendor files
+  - set up gulp +
+  - try gulp in empty project with several js files+
+  HERE>- try gulp in empty project with several vendor files
 
 2- Basic implementations+
   - Get knockout js+
