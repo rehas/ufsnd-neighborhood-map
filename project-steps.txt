@@ -7,8 +7,10 @@ Project Steps for Udacity Full Stack ND
   - Set up node, npm+
   - set up gulp +
   - try gulp in empty project with several js files+
-  HERE>- try gulp in empty project with several vendor files
-  - Make sure gulp watch works. It doesn't work now. 
+  - try gulp in empty project with several vendor files
+    - Try with one file, using vendor from main.js+
+    HERE>- Add one more vendor, try to use that in another js
+  - Make sure gulp watch works. It doesn't work now. +
 
 2- Basic implementations+
   - Get knockout js+
