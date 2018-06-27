@@ -1,16 +1,25 @@
 Project Steps for Udacity Full Stack ND
 
 1- Project infrastructure
-  - How to split JS into multiple files effectively?
-  - Check out gulp, bower etc..?
-  - Test those on a separate demo project.?
+  - How to split JS into multiple files effectively?+
+  - Check out gulp, bower etc..?+
+  - Test those on a separate demo project.?+
   - Set up node, npm+
   - set up gulp +
   - try gulp in empty project with several js files+
-  - try gulp in empty project with several vendor files
+  - try gulp in empty project with several vendor files+
     - Try with one file, using vendor from main.js+
-    HERE>- Add one more vendor, try to use that in another js
+    - Add one more vendor, try to use that in another js+
   - Make sure gulp watch works. It doesn't work now. +
+
+HERE>1.a- Project Folder Structure
+  - Make a src folder
+    -Organization for vendor and coded js files
+  - Make dist folder
+    - Make sure vendor and app.js files are seperate
+  - Set gulp for js files
+    -vendor
+    -Coded js
 
 2- Basic implementations+
   - Get knockout js+
@@ -18,12 +27,21 @@ Project Steps for Udacity Full Stack ND
   - Get gmaps js api+
     -Test+
 
-3- Project Functionality
+2.a- KO functionality
+  - Create a places array
+    - Dynamically change them on screen
+    - Make marker object have a favorite attribute
+  - Fill places array with 20 locations
+    - Show the places in a list
+    - Filter list based on searchBox / Dropdown list
+
+3- GMaps Functionality
+  - Getting the map running
   - Setting markers
+    -Get markers from an gmaps api
   - Setting info-window
   - Manipulating marker colors
   - Manipulating marker animations
-  - Filtering markers
 
 4- Project UX
   - Setting responsiveness
@@ -39,3 +57,9 @@ Project Steps for Udacity Full Stack ND
     - Implement css
   - Design desktop screen
     - Implement css
+
+5- Project Delivery
+  - Include minify
+  - Include uglify
+  - Include JS lint
+  - Update README.md as fit => Mainly to run the app / not the build steps
