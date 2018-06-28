@@ -1,0 +1,23 @@
+{
+  "name": "neighborhood-map",
+  "version": "1.0.0",
+  "description": "Udacity Project For FullStack ND",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehas/ufsnd-neighborhood-map.git"
+  },
+  "author": "Reha Sonmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehas/ufsnd-neighborhood-map/issues"
+  },
+  "homepage": "https://github.com/rehas/ufsnd-neighborhood-map#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  }
+}
