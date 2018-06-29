@@ -31,7 +31,7 @@ HERE>2.a- KO functionality
   - Create a dummy places array
     - Dynamically change them on screen
       - Catch hover events +
-      - Catch click events
+      - Catch click events+
       - Filter via searchbox
     - Make marker object have a favorite attribute
   - Fill places array with 20 locations form an api

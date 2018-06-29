@@ -11,8 +11,9 @@
   </head>
   <body>
     <p data-bind="text: test1"></p>
+    <input placeholder="Filter Places" type="search" data-bind="value: query, valueUpdate: 'keyup'" autocomplete="off">
     <div data-bind="foreach: array1">
-      <p data-bind="text: name, event: {mouseover: $parent.changeColor}"></p>
+      <p data-bind="text: name, event: {mouseover: $parent.changeColor, click: $parent.clicked}"></p>
 
     </div>
     <div id="map" ></div>
