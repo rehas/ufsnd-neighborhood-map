@@ -28,10 +28,14 @@ Project Steps for Udacity Full Stack ND
     -Test+
 
 HERE>2.a- KO functionality
-  - Create a places array
+  - Create a dummy places array
     - Dynamically change them on screen
+      - Catch hover events +
+      - Catch click events
+      - Filter via searchbox
     - Make marker object have a favorite attribute
-  - Fill places array with 20 locations
+  - Fill places array with 20 locations form an api
+    -Train stations, bakeries, sbx locations etc.
     - Show the places in a list
     - Filter list based on searchBox / Dropdown list
 
